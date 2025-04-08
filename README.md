@@ -73,3 +73,12 @@
 - Make sure you have the setup.exe and the XML file (Configuration file).
 - Click any blank part like this
 <img src="Capture.PNG"/>
+
+- Type "cmd" and click enter
+  
+<img src="Capture2.PNG"/>
+
+- Type this command "setup.exe /configure YourConfigurationName.xml"
+- Wait until the Office Tool Downloads and your Done!
+
+**To Activate the Office Tools you can also check my Guide <a href="">here</a>
