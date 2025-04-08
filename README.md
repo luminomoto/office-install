@@ -81,4 +81,4 @@
 - Type this command "setup.exe /configure YourConfigurationName.xml"
 - Wait until the Office Tool Downloads and your Done!
 
-**To Activate the Office Tools you can also check my Guide <a href="">here</a>
+**To Activate the Office Tools you can also check my Guide <a href="https://github.com/luminomoto/windows-office-activating">here</a>
