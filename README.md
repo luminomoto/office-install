@@ -71,4 +71,5 @@
 - Launch the deployment tool and select the folder where you create the new folder.
 - Go to that new folder where the Configuration file
 - Make sure you have the setup.exe and the XML file (Configuration file).
-- 
+- Click any blank part like this
+<img src="Capture.PNG"/>
